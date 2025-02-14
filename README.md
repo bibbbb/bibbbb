@@ -8,3 +8,6 @@
 - 📘 Facebook: [Labibb](https://www.facebook.com/profile.php?id=100088049186874)
 - 🎵 TikTok: [@labibmsd](https://www.tiktok.com/@labibmsd)
 - 🎮 Discord: `labibmsd` 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bibbbb&layout=compact&theme=tokyonight)
+
