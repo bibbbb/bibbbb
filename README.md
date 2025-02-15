@@ -19,7 +19,7 @@ Saat ini, saya fokus pada eksplorasi berbagai teknologi, membangun proyek yang b
 - 💼 LinkedIn: [Labib MSD](https://www.linkedin.com/in/labib-msd-46b458288/)  
 - 🐦 X: [@LabibMSD](https://x.com/LabibMsd)  
 - 📸 Instagram: [@labib_msd](https://instagram.com/labib_msd)
-- 📘 Facebook: [Labibb](https://www.facebook.com/profile.php?id=100088049186874)
+- 📘 Facebook: [Labib MSD](https://www.facebook.com/profile.php?id=100088049186874)
 - 🎵 TikTok: [@labibmsd](https://www.tiktok.com/@labibmsd)
 - 🎮 Discord: `labibmsd` 
 
