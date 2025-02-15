@@ -9,10 +9,10 @@ Saat ini, saya fokus pada eksplorasi berbagai teknologi, membangun proyek yang b
 ## 🚀 Projects
 - 🧮 Calculator dasar
   - Kalkulator sederhana (+, -, x, ÷) saja.
-  - [Repository](https://github.com/bibbbb/calculator) | [Demo](https://bibbbb.github.io/calculator)
+  - [Repository](https://github.com/LabibMSD/calculator) | [Demo](https://LabibMSD.github.io/calculator)
 - ✌ Suwit Jawa
   - Game Suit (Batu, Gunting, Kertas) versi Jawa.
-  - [Repository](https://github.com/bibbbb/suwit-jawa) | [Demo](https://bibbbb.github.io/suwit-jawa)
+  - [Repository](https://github.com/LabibMSD/suwit-jawa) | [Demo](https://LabibMSD.github.io/suwit-jawa)
 
 ## 🔗 Contacts aKu.
 - 📧 Email: [labib.msd.3001@gmail.com](mailto:labib.msd.3001@gmail.com)  
