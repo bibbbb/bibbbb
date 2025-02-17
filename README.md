@@ -23,4 +23,4 @@ Saat ini, saya fokus pada eksplorasi berbagai teknologi, membangun proyek yang b
 - 🎵 TikTok: [@labibmsd](https://www.tiktok.com/@labibmsd)
 - 🎮 Discord: `labibmsd` 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bibbbb&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LabibMSD&layout=compact&theme=tokyonight)
